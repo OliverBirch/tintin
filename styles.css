@@ -15,11 +15,11 @@ body {
 }
 
 .cover-title {
-    color: white;;
-    text-transform: uppercase;
+    color: white;
+    text-transform: capitalize;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
     font-weight: bold;
-    font-size: 1.6rem;
+    font-size: 1.3em;
     height: 2rem;
     margin-bottom: 2rem;
     display: flex;
@@ -35,7 +35,7 @@ body {
 .cover-img:hover {
     -webkit-box-shadow: -8px 9px 0px 0px #ac9e65a1;
     -moz-box-shadow: -8px 9px 0px 0px #ac9e65a1;
-    box-shadow: -8px 9px 0px 0px #ac9e65a1;
+    box-shadow: -8px 9px 0px 0px #5551437a;
     transform: translateX(8px) translateY(-9px);
 }
 
