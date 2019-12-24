@@ -1,0 +1,32 @@
+{
+    "books": {
+        "volume_1": {
+            "title": {
+                "danish": "Tintin i Sovjet",
+                "dutch": "Kuifje in het land van de Sovjets",
+                "english": "Tintin in the Land of the Soviets",
+                "french": "Tintin au pays des Soviets",
+                "german": "Tim im Lande der Sowjets",
+                "portuguese": "Tintim no País dos Sovietes",
+                "swedish": "Tintin i Sovjet"
+            },
+            "cover_img": "./material/The_Adventures_of_Tintin_-_01_-_Tintin_in_the_Land_of_the_Soviets.jpg",
+            "date_of_publication": "1930, 5, 8",
+            "volume": "1"
+        },
+        "volume_2": {
+            "title": {
+                "danish": "Tintin i Congo",
+                "dutch": "Kuifje in Congo",
+                "english": "Tintin in the Congo",
+                "french": "Tintin au Congo",
+                "german": "Tim im Kongo",
+                "portuguese": "Tintin au Congo",
+                "swedish": "Tintin i Kongo"
+            },
+            "cover_img": "./material/The_Adventures_of_Tintin_-_02_-_Tintin_in_the_Congo.jpg",
+            "date_of_publication": "1931, 6, 11",
+            "volume": "2"
+        }
+    }
+}
